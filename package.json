@@ -2,6 +2,7 @@
   "name": "node_report",
   "version": "1.0.0",
   "main": "index.js",
+<<<<<<< HEAD
   "license": "MIT",
   "dependencies": {
     "@prisma/client": "^5.9.0",
@@ -13,4 +14,7 @@
   "devDependencies": {
     "nodemon": "^3.0.3"
   }
+=======
+  "license": "MIT"
+>>>>>>> 8c5a3d8572c6872eea85ac383b95e3de77ff6252
 }
